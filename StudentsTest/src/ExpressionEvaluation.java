@@ -1,4 +1,4 @@
-// Evaluate an expression based on the parameters passed to it
+// Evaluate an expression based on the data passed to it
 /**
  * 
  * @author Ravi_Kalla
